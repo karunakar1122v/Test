@@ -1,0 +1,16 @@
+<xml>
+   <Configuration>
+     <softwares>
+                <software>
+                 	 <toolname>jenkins</toolname>
+                  	 <version>1.7</version>  
+                	 <Type>Install</Type> 
+                 </software>
+                 <software>
+                	 <toolname>junit</toolname>
+                 	 <version>2.0</version>
+                	 <Type>Install</Type>
+                 </software>  
+         </softwares>
+  </Configuration>     
+ </xml>   
