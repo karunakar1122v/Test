@@ -2,13 +2,13 @@
    <Configuration>
      <softwares>
                 <software>
-                 	 <toolname>jenkins</toolname>
-                  	 <version>1.7</version>  
+                 	 <toolname>tomcat</toolname>
+                  	 <version>8.0.39</version>  
                 	 <Type>Install</Type> 
                  </software>
                  <software>
-                	 <toolname>junit</toolname>
-                 	 <version>2.0</version>
+                	 <toolname>jenkins</toolname>
+                 	 <version>latest</version>
                 	 <Type>Install</Type>
                  </software>  
          </softwares>
