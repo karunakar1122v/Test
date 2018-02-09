@@ -1,0 +1,1 @@
+{  "name": "grunt-eslint-demo",  "version": "1.0.0",  "description": "",  "main": "index.js",  "scripts": {    "test": "echo \"Error: no test specified\" && exit 1"  },  "author": "",  "license": "ISC",  "devDependencies": {    "eslint-config-angular": "^0.5.0",    "eslint-plugin-angular": "^1.0.0",    "grunt": "^1.0.1",    "grunt-cli": "^1.2.0",    "grunt-eslint": "^18.0.0"  }}
